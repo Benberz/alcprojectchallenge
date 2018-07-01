@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Journal</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="journal_title_text">Title</string>
+    <string name="journal_title_hint">Enter Short Title</string>
+    <string name="journal_entry_hint">Write your journal here &#8230;</string>
+    <string name="journal_entry_title">Entry</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="add_journal_activity_name">Journal Entry</string>
+    <string name="no_entry_yet_title">No Entries, Click the Add button below to get started.</string>
+    <string name="view_journey_title">Journal Entry</string>
+</resources>
